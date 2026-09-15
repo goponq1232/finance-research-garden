@@ -1,17 +1,28 @@
-# Quartz v5
+# Finance Research Garden
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+A public Quartz digital garden about personal loans, credit, debt, mortgages, budgeting, and fintech.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+## Live site
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+Once GitHub Pages is enabled with **Source: GitHub Actions**, the site is intended to publish at:
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+**https://goponq1232.github.io/finance-research-garden/**
 
-## Sponsors
+## What is inside
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+- Personal loan comparison research
+- APR vs. interest-rate explanations
+- Debt-consolidation notes
+- Loan-affordability budgeting
+- Mortgage cost research
+- Fintech and lending-app privacy notes
+- Interconnected Quartz wikilinks, graph view, backlinks, search, RSS, and sitemap
+
+For more detailed consumer-finance guides and calculators, visit **[EasyLoanWorld](https://easyloanworld.com/)**.
+
+## Publishing
+
+This repository uses Quartz v5 and the `v5` branch. A GitHub Actions workflow at
+`.github/workflows/deploy.yml` builds and deploys the site to GitHub Pages.
+
+> Educational content only. Nothing in this repository is individualized financial, legal, tax, investment, or credit advice.
